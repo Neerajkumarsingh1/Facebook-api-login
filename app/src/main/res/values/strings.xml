@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+
+    <string name="facebook_app_id">Put your fb APP ID</string>
+    <string name="fb_login_protocol_scheme">fb(putappid)</string>
+
+    <string name="title_activity_main2">MainActivity</string>
+</resources>
